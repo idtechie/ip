@@ -43,3 +43,5 @@ Simak tutorial terbaru lainnnya:
 - `Waspada Akun Palsu Tanya Veronika Telkomsel <https://www.dmo.or.id/akun-palsu-tanya-veronika/>`_
 - `Tutorial Mudah Download Suara dari Google Translate <https://www.autobild.co.id/2021/02/tutorial-sound-of-text.html>`_
 
+Powered by https://idtutorial.readthedocs.io/
+
