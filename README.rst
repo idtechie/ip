@@ -40,6 +40,4 @@ License
 
 The project is licensed under the BSD license.
 
-- https://karinov.co.id - jasa digital marketing indonesia
-- https://www.autobild.co.id/ - direktori service center dan brand ternama Indonesia
-- https://www.navi.id - navigator panduan cara indonesia
+- https://cekips.com - Cek Alamat IP Server Website dan Geolokasi
